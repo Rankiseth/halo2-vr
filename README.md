@@ -31,7 +31,7 @@ The development build uses the pinned Cartographer 0.7.4.3 source. Its existing 
 
 ## First launch
 
-The public player ZIP and final installation instructions will be attached after release preparation. The existing R37 source playtest uses **Build-R3 → Prepare-R3 → Run-R3**, creating a separate game copy. Players of the planned compiled release will not need Visual Studio.
+The public player ZIP and final installation instructions will be attached after release preparation. The existing R42 source playtest uses **Build-R3 → Prepare-R3 → Run-R3**, creating a separate game copy. Players of the planned compiled release will not need Visual Studio.
 
 Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](docs/Bindings-and-Reload-Guide.txt).
 
@@ -48,7 +48,6 @@ The first public alpha is intended to broaden testing across PCs, missions and c
 - **LivingFray and HaloCEVR contributors** — inspiration.
 - **Valve and OpenVR contributors** — VR runtime integration.
 - **The Sounds Resource** — [Halo 2 sound archive](https://sounds.spriters-resource.com/xbox/halo2/), identified by Rankiseth as the source of the supplied raw reload recordings. Original game-audio rights remain with their respective owners.
-- Development and documentation used **OpenAI ChatGPT/Codex assistance**; Rankiseth directed, reviewed and playtested the project. These tools and upstream projects do not endorse this mod.
 
 ## Licence and game content
 
