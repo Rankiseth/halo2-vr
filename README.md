@@ -25,7 +25,7 @@ I first played Halo CE on the original Xbox as a young pre-teen. Since then, I h
 
 ## Requirements and scope
 
-- A Windows PC and a legitimate Halo 2 Vista installation with the supported Project Cartographer baseline.
+- A Windows PC and a legitimate Halo 2 Vista installation with the supported [Project Cartographer](https://www.halo2pc.com/) baseline.
 - SteamVR / OpenVR and tracked motion controllers. This is a PC VR mod; the headset does not run the game standalone.
 - The main playtest setup is **Meta Quest 3 → Virtual Desktop → SteamVR**. Other headsets and controller layouts need wider testing.
 - This alpha targets **local single-player campaign**. Multiplayer and co-op are not validated release features.
