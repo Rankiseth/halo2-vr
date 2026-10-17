@@ -35,7 +35,7 @@ I first played Halo CE on the original Xbox as a young pre-teen. Since then, I h
 
 In your Halo 2 Project Cartographer folder - back up xlive.dll, extract all Win32 ZIP contents beside halo2.exe, start SteamVR, and launch.
 
-Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](Bindings-and-Reload-Guide.txt). Or you may refer to the posters below:
+Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](Bindings-and-Reload-Guide.txt). Or you may refer to the [posters](Halo2VR-R44-Quest3-Bindings-Posters.pdf) below:
 
 <img width="2160" height="2880" alt="Halo2VR-R44-01-Ground-Combat" src="https://github.com/user-attachments/assets/44691c50-16cd-433e-b06f-4bb1f44bb271" />
 
