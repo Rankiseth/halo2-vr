@@ -4,7 +4,7 @@
 
 > **First public alpha in preparation: v0.1.0-alpha.1**, based on development revision **R37**. No playable download has been published yet. Release packaging and audio/code provenance checks are in progress.
 
-Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR, with inspiration and reference work from LivingFray's HaloCEVR.
+Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
 
 ## Features
 
@@ -52,6 +52,6 @@ The first public alpha is intended to broaden testing across PCs, missions and c
 
 ## Licence and game content
 
-The Cartographer-based code is subject to GPLv3; the VR integration files are marked GPL-3.0-only. A public binary release must provide its matching complete Corresponding Source and preserve applicable notices. Individual dependencies retain their own licences. See [release preparation notes](MAINTAINER-RELEASE-NOTES.md) for unresolved provenance checks.
+The Cartographer-based code is subject to GPLv3; the VR integration files are marked GPL-3.0-only. A public binary release must provide its matching complete Corresponding Source and preserve applicable notices. Individual dependencies retain their own licences.
 
 Halo 2 and related characters, assets and marks belong to their respective rights holders. This is an unofficial community project, not endorsed by Microsoft, Halo Studios, Bungie, Valve, Meta or the Project Cartographer team. The project does not assert permission to redistribute extracted game audio.
