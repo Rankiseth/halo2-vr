@@ -47,7 +47,6 @@ The first public alpha is intended to broaden testing across PCs, missions and c
 - **Project Cartographer contributors** — the Halo 2 Vista integration on which this build is based.
 - **LivingFray and HaloCEVR contributors** — inspiration.
 - **Valve and OpenVR contributors** — VR runtime integration.
-- **The Sounds Resource** — [Halo 2 sound archive](https://sounds.spriters-resource.com/xbox/halo2/), identified by Rankiseth as the source of the supplied raw reload recordings. Original game-audio rights remain with their respective owners.
 
 ## Licence and game content
 
