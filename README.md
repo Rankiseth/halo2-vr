@@ -33,6 +33,10 @@ In your Halo 2 Project Cartographer folder - back up xlive.dll, extract all Win3
 
 Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](Bindings-and-Reload-Guide.txt).
 
+## AI Disclosure
+
+This mod was created with the help of AI-assistance.
+
 ## Feedback
 
 When reporting a problem, include the release version, mission/checkpoint, headset, runtime/streaming setup, controller layout, and steps to reproduce it. F8 can capture diagnostic views. Check logs for personal paths or account details before posting them publicly.
