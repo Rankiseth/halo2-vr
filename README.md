@@ -6,6 +6,10 @@
 
 Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
 
+## Motivation
+
+I first played Halo CE on the original Xbox as a young pre-teen. Since then, I have always dreamt of truly feeling immersed as the Master Chief after having played Bungie's sequels. This mod is a love-letter to the fans of the Halo universe, and VR gamers. I hope you enjoy it. :)
+
 ## Features
 
 - Stereoscopic gameplay, menus and cutscenes, with controller pointers for menu interaction.
