@@ -57,7 +57,7 @@ This mod was created with the help of AI-assistance.
 
 ## Feedback
 
-When reporting a problem, include the release version, mission/checkpoint, headset, runtime/streaming setup, controller layout, and steps to reproduce it. F8 can capture diagnostic views. Check logs for personal paths or account details before posting them publicly.
+When reporting a problem, include the release version, mission/checkpoint, headset, runtime/streaming setup, controller layout, and steps to reproduce it. F8 can capture diagnostic views. Check logs for personal paths or account details before posting them publicly. You may also send your crash report in your "halo2_crash_reports" folder, which is held in your "Documents" folder in PC.
 
 The first public alpha is intended to broaden testing across PCs, missions and comfort preferences. Successful testing on the main development setup does not establish compatibility with every system.
 
