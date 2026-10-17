@@ -35,7 +35,21 @@ I first played Halo CE on the original Xbox as a young pre-teen. Since then, I h
 
 In your Halo 2 Project Cartographer folder - back up xlive.dll, extract all Win32 ZIP contents beside halo2.exe, start SteamVR, and launch.
 
-Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](Bindings-and-Reload-Guide.txt).
+Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](Bindings-and-Reload-Guide.txt). Or you may refer to the posters below:
+
+<img width="2160" height="2880" alt="Halo2VR-R44-01-Ground-Combat" src="https://github.com/user-attachments/assets/44691c50-16cd-433e-b06f-4bb1f44bb271" />
+
+<img width="2160" height="2880" alt="Halo2VR-R44-02-Weapons-and-Holsters" src="https://github.com/user-attachments/assets/c9cda244-63e4-44f2-82b1-46a2eccfc3b1" />
+
+<img width="2160" height="2880" alt="Halo2VR-R44-03-Grenades-and-Melee" src="https://github.com/user-attachments/assets/6f4e6add-a165-4a93-b0dc-a81561cddc01" />
+
+<img width="2160" height="2880" alt="Halo2VR-R44-04-Magazine-Reloads" src="https://github.com/user-attachments/assets/bd370bb9-5127-4f8d-88d2-eff925a235ac" />
+
+<img width="2160" height="2880" alt="Halo2VR-R44-05-Shotgun-and-Heavy-Reloads" src="https://github.com/user-attachments/assets/02d98e9e-2d4e-4147-9494-04fc8f566853" />
+
+<img width="2160" height="2880" alt="Halo2VR-R44-06-Vehicles-and-Turrets" src="https://github.com/user-attachments/assets/a33d31ca-403a-4c42-b328-7e2cf36d4df9" />
+
+<img width="2160" height="2880" alt="Halo2VR-R44-07-Menus-and-Comfort" src="https://github.com/user-attachments/assets/30d8133b-df5b-4770-b7d4-f087913b1078" />
 
 ## AI Disclosure
 
