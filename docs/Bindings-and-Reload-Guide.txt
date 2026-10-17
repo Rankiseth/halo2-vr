@@ -1,4 +1,4 @@
-CARTOGRAPHER VR R37 - BINDINGS AND RELOAD GUIDE
+CARTOGRAPHER VR R44 - BINDINGS AND RELOAD GUIDE
 
 MENUS & COMFORT
 - Point with either controller; press that hand's trigger to select.
@@ -78,6 +78,6 @@ VEHICLES, CUTSCENES & DIAGNOSTICS
 - Vehicles settings offer third-person view and separate first-person height / offset adjustments.
 - While boarding an enemy vehicle, swing the right hand to melee; swing the left to plant a grenade.
 - Cutscenes remain in VR: look around, use the turn stick, or hold recenter to restore shot orientation.
-- F6 toggles VR, F7 recenters, F8 captures diagnostics. Use Run-R3.cmd to collect the report ZIP.
+- F6 toggles VR, F7 recenters, F8 captures diagnostics. Use Run-R3.cmd to collect the report ZIP (developers only).
 - After losing focus or opening SteamVR, release all buttons, grips and sticks before resuming.
 
