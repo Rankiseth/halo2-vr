@@ -1,0 +1,83 @@
+CARTOGRAPHER VR R37 - BINDINGS AND RELOAD GUIDE
+
+MENUS & COMFORT
+- Point with either controller; press that hand's trigger to select.
+- Right stick moves the menu cursor. A selects; B closes VR settings.
+- Left stick navigates Halo's menus. Use Previous / Next for more Guide pages.
+- Gameplay: X + RT pauses / resumes. Left-handed mode: A + LT. Release both afterward.
+- Hold Y to recenter height and facing. In left-handed gameplay, hold B; menus still use Y.
+- Comfort includes snap turning and world scale. HUD & Menus controls panel size and depth.
+- Save & apply keeps changes. Reset to default resets ALL settings to the project baseline.
+
+ON FOOT / RIGHT-HANDED MODE
+- Left stick: move. Right stick: turn. A: jump. Left stick click: crouch.
+- B: interact / action; hold B to enter or leave a vehicle or turret when prompted.
+- Grip at a holster to draw; keep gripping to hold. Either hand can hold a weapon.
+- Weapon-hand trigger: fire. Other trigger: zoom. With two guns, each trigger fires its gun.
+- Right stick click: change grenade type. Physical grenades use their own chest slots.
+- Move either hand beside the left side of your head and press grip to use the flashlight.
+- Physical Melee Off: X melees. Physical Grenades Off: tap Y throws (unless used for reload).
+
+LEFT-HANDED MODE
+- Select Weapons > Left-handed controls and holsters, then Save & apply.
+- Right stick: move / click to crouch. Left stick: turn / click to change grenades. X: jump.
+- Y: interact / action. A + LT: pause. Hold B: recenter during gameplay.
+- Weapon-hand trigger fires; the other trigger zooms. Two guns use their own triggers.
+- Weapon holsters move to the left hip and shoulder. Flashlight gesture moves to the right.
+- Manual reload buttons follow the actual gun hand: B for a right-hand gun, Y for a left-hand gun.
+- Button fallbacks: A melees; tap B throws. Chest grenade types stay frag right / plasma left.
+
+WEAPONS, HOLSTERS & DUAL WIELDING
+- Either free hand can draw from either weapon holster. A grey mesh means that gun is in use.
+- Release grip at a weapon holster to stow; release elsewhere to drop the gun.
+- To replace a holstered weapon, first drop one; then grip when the ground pickup prompt appears.
+- For dual wielding, briefly hold the free hand's grip at a compatible weapon pickup prompt.
+- Either dual weapon can be dropped or holstered independently. Free a hand before manual reloads.
+- Grip the support area with the free hand to two-hand. Some weapons keep one-hand aiming.
+- You may release the trigger hand while the support hand holds; regrip the handle to resume.
+
+PHYSICAL GRENADES & MELEE
+- Chest holsters: frag on your right, plasma on your left. Grey means no grenades available.
+- With a free hand, grip a chest grenade and keep holding grip while moving your hand.
+- Release away from the chest to throw. Return to its chest slot and release to put it back.
+- Swing the weapon hand to melee. Aim the melee with your head. Default threshold: 3.0 m/s.
+- Energy Sword: swing for normal melee; hold its hand's trigger, then swing for a trigger attack.
+- Weapons settings adjust grenade strength / grip height and melee speed, or disable either gesture.
+- Native melee recovery still applies. Lowering the speed threshold does not remove that recovery.
+
+MANUAL RELOAD / MAGAZINES
+- Keep holding the gun's grip and free the other hand. Holster the second gun if dual wielding.
+- Tap B for a gun in your right hand, or Y for a gun in your left, to eject its magazine.
+- Grip at the labelled Magazine Zone opposite your weapon holsters; keep gripping the new magazine.
+- Bring it to the weapon's magazine opening. BR, Magnum and Sniper feed below; SMG at the side.
+- Carbine feeds from the top. Release grip after insertion, before grabbing a charging handle.
+- Tactical reloads need no charging. BR / Magnum / SMG / Sniper need charging after emptying.
+- Audio & Feedback > Reload sound volume: 0 mutes, 100 is normal, 200 is the maximum.
+
+MANUAL RELOAD / CHARGING & SHOTGUN
+- After an empty BR or Magnum reload, grip the rear-held handle / slide with your free hand.
+- Guide it forward or release grip to let it return. Your hand snaps to the moving part.
+- SMG / Sniper: grip the charging handle, pull it fully back, then return it or release grip.
+- Shotgun: grip a shell at the Magazine Zone and bring it to the top loading port.
+- Release grip and repeat for each shell. No magazine-eject button is needed.
+- After each shot, keep your support grip held and move the pump back, then forward.
+- You do not need to release and regrip between shots. An empty shotgun also needs a pump after loading.
+
+MANUAL RELOAD / HEAVY & ALIEN WEAPONS
+- Rocket Launcher: tap the gun-hand reload button (B right / Y left) to open the launcher.
+- Grip each spent round at the opening and release to discard it before adding a new round.
+- Grip fresh rockets at the Magazine Zone, insert one at a time, then tap the reload button to close.
+- Brute Shot: tap reload to open, grip fresh ammo at the Magazine Zone and insert at the rear port.
+- Then grip and pull the Brute Shot charging handle; return or release it to complete the reload.
+- Fuel Rod: grip fresh ammo at the Magazine Zone and insert at its rear housing.
+- Needler keeps its button reload. Battery weapons and the Energy Sword have no magazine reload.
+
+VEHICLES, CUTSCENES & DIAGNOSTICS
+- Hold the action button at the entry / exit prompt: B in right mode, Y in left mode.
+- Warthog driver: RT accelerates, LT reverses; left stick steers and right stick gives free look.
+- Vehicles settings offer third-person view and separate first-person height / offset adjustments.
+- While boarding an enemy vehicle, swing the right hand to melee; swing the left to plant a grenade.
+- Cutscenes remain in VR: look around, use the turn stick, or hold recenter to restore shot orientation.
+- F6 toggles VR, F7 recenters, F8 captures diagnostics. Use Run-R3.cmd to collect the report ZIP.
+- After losing focus or opening SteamVR, release all buttons, grips and sticks before resuming.
+
