@@ -2,7 +2,7 @@
 
 **An unofficial PC VR mod for Halo 2 Vista / Project Cartographer.**
 
-> **First public alpha in preparation: v0.1.0-alpha.1**, based on development revision **R42**. No playable download has been published yet. Release packaging and audio/code provenance checks are in progress.
+> **First public alpha in preparation: v0.1.0-alpha.1**, based on development revision **R44**. No playable download has been published yet. Release packaging and audio/code provenance checks are in progress.
 
 Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
 
@@ -31,7 +31,7 @@ The development build uses the pinned Cartographer 0.7.4.3 source. Its existing 
 
 ## First launch
 
-The public player ZIP and final installation instructions will be attached after release preparation. The existing R42 source playtest uses **Build-R3 → Prepare-R3 → Run-R3**, creating a separate game copy. Players of the planned compiled release will not need Visual Studio.
+The public player ZIP and final installation instructions will be attached after release preparation. The existing R44 source playtest uses **Build-R3 → Prepare-R3 → Run-R3**, creating a separate game copy. Players of the planned compiled release will not need Visual Studio.
 
 Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](docs/Bindings-and-Reload-Guide.txt).
 
@@ -45,7 +45,6 @@ The first public alpha is intended to broaden testing across PCs, missions and c
 
 - **Rankiseth** — project direction, gameplay design, tuning and headset testing.
 - **Project Cartographer contributors** — the Halo 2 Vista integration on which this build is based.
-- **LivingFray and HaloCEVR contributors** — inspiration.
 - **Valve and OpenVR contributors** — VR runtime integration.
 
 ## Licence and game content
