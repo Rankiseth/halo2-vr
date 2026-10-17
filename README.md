@@ -52,4 +52,4 @@ The first public alpha is intended to broaden testing across PCs, missions and c
 
 The Cartographer-based code is subject to GPLv3; the VR integration files are marked GPL-3.0-only. A public binary release must provide its matching complete Corresponding Source and preserve applicable notices. Individual dependencies retain their own licences.
 
-Halo 2 and related characters, assets and marks belong to their respective rights holders. This is an unofficial community project, not endorsed by Microsoft, Halo Studios, Bungie, Valve, Meta or the Project Cartographer team. The project does not assert permission to redistribute extracted game audio.
+Halo 2 and related characters, assets and marks belong to their respective rights holders. This is an unofficial community project, not endorsed by Microsoft, Halo Studios, Bungie, Valve, Meta or the Project Cartographer team. 
