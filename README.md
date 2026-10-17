@@ -1,4 +1,4 @@
-# Rankiseth VR for Halo 2
+# VR Mod for Halo 2 Vista/Project Cartographer
 
 **An unofficial PC VR mod for Halo 2 Vista / Project Cartographer.**
 
