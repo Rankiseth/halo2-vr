@@ -2,7 +2,7 @@
 
 **An unofficial PC VR mod for Halo 2 Vista / Project Cartographer.**
 
-> **First public alpha in preparation: v0.1.0-alpha.1**, based on development revision **R44**. No playable download has been published yet. Release packaging and audio/code provenance checks are in progress.
+> **First public alpha : v0.1.0-alpha.1**, based on development revision **R44**. See releases.
 
 Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
 
@@ -27,11 +27,9 @@ Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical inte
 - This alpha targets **local single-player campaign**. Multiplayer and co-op are not validated release features.
 - Halo 2 in **The Master Chief Collection is not supported** by this build.
 
-The development build uses the pinned Cartographer 0.7.4.3 source. Its existing Prepare tool accepts the specific tested Cartographer 0.7.4.2 installation and Halo 2 executable 1.0.0.11122. The final installer must identify this compatibility clearly; arbitrary Cartographer versions are not interchangeable.
-
 ## First launch
 
-The public player ZIP and final installation instructions will be attached after release preparation. The existing R44 source playtest uses **Build-R3 → Prepare-R3 → Run-R3**, creating a separate game copy. Players of the planned compiled release will not need Visual Studio.
+In your Halo 2 Project Cartographer folder - back up xlive.dll, extract all Win32 ZIP contents beside halo2.exe, start SteamVR, and launch.
 
 Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](docs/Bindings-and-Reload-Guide.txt).
 
