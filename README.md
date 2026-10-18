@@ -35,7 +35,7 @@ I first played Halo CE on the original Xbox as a young pre-teen. Since then, I h
 
 In your Halo 2 Project Cartographer folder - back up xlive.dll, extract all Win32 ZIP contents beside halo2.exe, start SteamVR, and launch.
 
-Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](Bindings-and-Reload-Guide.txt). Or you may refer to the [posters](Halo2VR-R44-Quest3-Bindings-Posters.pdf) below:
+Start Virtual Desktop and SteamVR before launching. VR starts automatically by default. **F6** toggles VR, **hold Y** recenters height/orientation, and **F7** is the keyboard recenter fallback. Open **VR Settings → Guide** for the complete control scheme and reload instructions, also available in [the guide](Bindings-and-Reload-Guide.txt). Or you may refer to the [posters](Halo2VR-R47-Quest3-Bindings-Posters.pdf) below:
 
 <img width="2160" height="2880" alt="Halo2VR-R44-01-Ground-Combat" src="https://github.com/user-attachments/assets/44691c50-16cd-433e-b06f-4bb1f44bb271" />
 
@@ -49,7 +49,7 @@ Start Virtual Desktop and SteamVR before launching. VR starts automatically by d
 
 <img width="2160" height="2880" alt="Halo2VR-R44-06-Vehicles-and-Turrets" src="https://github.com/user-attachments/assets/a33d31ca-403a-4c42-b328-7e2cf36d4df9" />
 
-<img width="2160" height="2880" alt="Halo2VR-R44-07-Menus-and-Comfort" src="https://github.com/user-attachments/assets/30d8133b-df5b-4770-b7d4-f087913b1078" />
+[Halo2VR-R47-07-Menus-and-Comfort.pdf](https://github.com/user-attachments/files/33616244/Halo2VR-R47-07-Menus-and-Comfort.pdf)
 
 ## AI Disclosure
 
