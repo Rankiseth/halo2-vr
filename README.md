@@ -8,7 +8,7 @@ Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical inte
 
 ## Motivation
 
-I first played Halo CE on the original Xbox as a young pre-teen. Since then, I have always dreamt of truly feeling immersed as the Master Chief after having played Bungie's sequels. This mod is a love-letter to the fans of the Halo universe, and VR gamers. I hope you enjoy it. :)
+I first played Halo CE on the original Xbox as a young pre-teen. Since then, I have always dreamt of truly feeling immersed as the Master Chief after having played Bungie's sequels. Ultimately, Halo 2 became my absolute favourite out of the games series. This mod is a love-letter to the fans of the Halo universe, and VR gamers. I hope you enjoy it. :)
 
 ## Features
 
