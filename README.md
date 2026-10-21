@@ -2,11 +2,11 @@
 
 **An unofficial PC VR mod for Halo 2 Vista / Project Cartographer.**
 
-> **First public alpha : [v0.1.0-alpha.3](https://github.com/Rankiseth/halo2-vr/releases#release-v0.1.0-alpha.3) <--- Click here to download the mod**, based on development revision **R47**. See releases.
+> **First public alpha : [v0.2.0-alpha.1](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.1) <--- Click here to download the mod**, based on development revision **R84**. See releases.
 
 > Youtube Highlight Footage: [Click here](https://www.youtube.com/watch?v=A6_uVG1LhiM)
 
-Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
+Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
 
 ### IMPORTANT - What’s new in v0.2.0-alpha.1 (R84)?!
 
