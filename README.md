@@ -8,6 +8,20 @@
 
 Step into Halo 2's campaign with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
 
+### IMPORTANT - What’s new in v0.2.0-alpha.1 (R84)?!
+
+**Bring your friends into Halo 2 VR!** R84 expands beyond single-player with private multiplayer and experimental campaign co-op, including sessions with both VR and native desktop players.
+
+- **Campaign co-op:** Playtested with two players, with experimental support added for up to four—one player per PC. Three- and four-player sessions still need live testing.
+- **Private multiplayer VR:** Bring tracked weapons, independent dual-wield aiming, manual reloads, holsters, physical melee and grenade throwing into matching R84 private sessions.
+- **Easy invites through Radmin VPN:** Copy a game invite from the lobby and let friends paste it into **Join Session**. No console commands required.
+- **Mix VR and desktop play:** Friends can play without a headset, and **F6** switches between VR and native controls during gameplay.
+- **Cleaner settings:** Separate **Campaign VR Settings** and **Multiplayer VR Settings**, plus a desktop **Advanced Options** button. The **Home** shortcut still works.
+- **Ready by default:** Multiplayer VR and co-op are enabled automatically. Existing R47 settings and calibration can be retained.
+- **Improved feedback:** Support-hand firing vibration when two-handing weapons in co-op and private multiplayer.
+
+**All participants need matching R84 builds.** Join the same Radmin VPN network—or use Local LAN—and start a fresh campaign mission. Older-build checkpoints and mid-mission co-op joining are not supported.
+
 ## Motivation
 
 I first played Halo CE on the original Xbox as a young pre-teen. Since then, I have always dreamt of truly feeling immersed as the Master Chief after having played Bungie's sequels. Ultimately, Halo 2 became my absolute favourite of the game series. This mod is a love-letter to the fans of the Halo universe, and VR gamers. I hope you enjoy it. :)
