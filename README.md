@@ -2,25 +2,27 @@
 
 **An unofficial PC VR mod for Halo 2 Vista / Project Cartographer.**
 
-> **Latest public alpha : [v0.2.0-alpha.1](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.1) <--- Click here to download the mod**, based on development revision **R84**. See releases.
+> **Latest public alpha : [v0.2.0-alpha.2](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.2) <--- Click here to download the mod**, based on development revision **R98**. See releases.
 
 > Youtube Highlight Footage: [Click here](https://www.youtube.com/watch?v=A6_uVG1LhiM)
 
 Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
 
-### IMPORTANT - What’s new in v0.2.0-alpha.1 (R84)?!
+### What’s new in v0.2.0-alpha.2/R98 — Four-Player Co-op Update
 
-**Bring your friends into Halo 2 VR!** R84 expands beyond single-player with private multiplayer and experimental campaign co-op, including sessions with both VR and native desktop players.
+**Bring the whole squad!** R98 brings tested **four-player campaign co-op**, improved mission startup and synchronization, and a cleaner way to host and join games—with VR and native desktop players together.
 
-- **Campaign co-op:** Playtested with two players, with experimental support added for up to four—one player per PC. Three- and four-player sessions still need live testing.
-- **Private multiplayer VR:** Bring tracked weapons, independent dual-wield aiming, manual reloads, holsters, physical melee and grenade throwing into matching R84 private sessions.
-- **Easy invites through Radmin VPN:** Copy a game invite from the lobby and let friends paste it into **Join Session**. No console commands required.
-- **Mix VR and desktop play:** Friends can play without a headset, and **F6** switches between VR and native controls during gameplay.
-- **Cleaner settings:** Separate **Campaign VR Settings** and **Multiplayer VR Settings**, plus a desktop **Advanced Options** button. The **Home** shortcut still works.
-- **Ready by default:** Multiplayer VR and co-op are enabled automatically. Existing R47 settings and calibration can be retained.
-- **Improved feedback:** Support-hand firing vibration when two-handing weapons in co-op and private multiplayer.
+- **Four-player co-op, now playtested:** Successful four-player sessions across multiple missions, including The Great Journey’s opening. Most missions have been reported playable, with some mission-specific quirks.
+- **Improved mission startup:** Fixes for starting-state transfer failures that could disconnect guests while loading into campaign.
+- **Better Player 3 and 4 spawning:** Extra players can spawn near teammates when authored starting positions are unavailable and normal co-op respawning is allowed.
+- **Checkpoint and recovery improvements:** Improved checkpoint reversion and automatic resynchronization for some simulation mismatches while players remain connected.
+- **Cleaner Advanced Options:** Separate **Co-op**, **Multiplayer**, and **Setup & help** tabs, expandable instructions, and a compact invite-entry screen. The **Home** shortcut still works.
 
-**All participants need matching R84 builds.** Join the same Radmin VPN network—or use Local LAN—and start a fresh campaign mission. Older-build checkpoints and mid-mission co-op joining are not supported.
+**All your VR interactions remain:** Manual reloads on supported weapons, physical grenade throwing and melee, holsters, two-handed support, and independently aimed dual-wielded weapons in matching private sessions. **F6** switches between VR and native controls.
+
+**Everyone should use R98.** Join the same **Radmin VPN** network—or use **Local LAN**—and start a fresh campaign mission. Existing settings and calibration can be retained.
+
+**Four-player co-op remains experimental.** Some cutscenes, teleports, and vehicle sections still assume two players. Legendary/Iron retain authored starts, and extra Banshees are not included. Older-build checkpoints and mid-mission joining are unsupported; disconnected players must rejoin from the lobby.
 
 ## Motivation
 
