@@ -2,13 +2,13 @@
 
 **An unofficial PC VR mod for Halo 2 Vista / Project Cartographer.**
 
-> **Latest public alpha : [v0.2.0-alpha.2](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.2) <--- Click here to download the mod**, based on development revision **R98**. See releases.
+> **Latest public alpha : [v0.2.0-alpha.3](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.3) <--- Click here to download the mod**, based on development revision **R98**. See releases.
 
 > Youtube Highlight Footage: [Click here](https://www.youtube.com/watch?v=A6_uVG1LhiM)
 
 Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
 
-### What’s new in v0.2.0-alpha.2/R98 — Four-Player Co-op Update
+### What’s new in v0.2.0-alpha.3/R99 — Four-Player Co-op Update
 
 **Bring the whole squad!** R98 brings tested **four-player campaign co-op**, improved mission startup and synchronization, and a cleaner way to host and join games—with VR and native desktop players together.
 
@@ -17,6 +17,7 @@ Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapon
 - **Better Player 3 and 4 spawning:** Extra players can spawn near teammates when authored starting positions are unavailable and normal co-op respawning is allowed.
 - **Checkpoint and recovery improvements:** Improved checkpoint reversion and automatic resynchronization for some simulation mismatches while players remain connected.
 - **Cleaner Advanced Options:** Separate **Co-op**, **Multiplayer**, and **Setup & help** tabs, expandable instructions, and a compact invite-entry screen. The **Home** shortcut still works.
+-  **Co-op Campaign Player Colours:** Player 1 is Chief or Arbiter, Players 2 to 4 adapt a blue, red and gold colour respectively to easily differentiate teammates!
 
 **All your VR interactions remain:** Manual reloads on supported weapons, physical grenade throwing and melee, holsters, two-handed support, and independently aimed dual-wielded weapons in matching private sessions. **F6** switches between VR and native controls.
 
