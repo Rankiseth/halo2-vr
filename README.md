@@ -19,6 +19,13 @@ Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapon
 - **Cleaner Advanced Options:** Separate **Co-op**, **Multiplayer**, and **Setup & help** tabs, expandable instructions, and a compact invite-entry screen. The **Home** shortcut still works.
 -  **Co-op Campaign Player Colours:** Player 1 is Chief or Arbiter, Players 2 to 4 adapt a blue, red and gold colour respectively to easily differentiate teammates!
 
+## Native 5-player Co-op
+<img width="721" height="578" alt="image" src="https://github.com/user-attachments/assets/a6e2c8e4-f87c-46bc-9bd0-0365c8bff674" />
+
+## VR 5-player Co-op (1st player is in VR, other 4 are in native)
+<img width="1031" height="893" alt="image" src="https://github.com/user-attachments/assets/cd1bab9b-ffc3-44aa-8fc1-30f58ad98d52" />
+
+
 **All your VR interactions remain:** Manual reloads on supported weapons, physical grenade throwing and melee, holsters, two-handed support, and independently aimed dual-wielded weapons in matching private sessions. **F6** switches between VR and native controls.
 
 **Everyone should use R99.** Join the same **Radmin VPN** network—or use **Local LAN**—and start a fresh campaign mission. Existing settings and calibration can be retained.
