@@ -21,7 +21,7 @@ Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapon
 
 **All your VR interactions remain:** Manual reloads on supported weapons, physical grenade throwing and melee, holsters, two-handed support, and independently aimed dual-wielded weapons in matching private sessions. **F6** switches between VR and native controls.
 
-**Everyone should use R98.** Join the same **Radmin VPN** network—or use **Local LAN**—and start a fresh campaign mission. Existing settings and calibration can be retained.
+**Everyone should use R99.** Join the same **Radmin VPN** network—or use **Local LAN**—and start a fresh campaign mission. Existing settings and calibration can be retained.
 
 **Four-player co-op remains experimental.** Some cutscenes, teleports, and vehicle sections still assume two players. Legendary/Iron retain authored starts, and extra Banshees are not included. Older-build checkpoints and mid-mission joining are unsupported; disconnected players must rejoin from the lobby.
 
