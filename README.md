@@ -18,7 +18,7 @@ Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapon
 - **Checkpoint and recovery improvements:** Improved checkpoint reversion and automatic resynchronization for some simulation mismatches while players remain connected.
 - **Cleaner Advanced Options:** Separate **Co-op**, **Multiplayer**, and **Setup & help** tabs, expandable instructions, and a compact invite-entry screen. The **Home** shortcut still works.
 -  **Co-op Campaign Player Colours:** Player 1 is Chief or Arbiter, Players 2 to 5 adapt a blue, red, gold and purple colour respectively to easily differentiate teammates!
--  **Proximity chat:** Hit up on the D-Pad, F4, or right trigger click to turn on your radio and talk between teammates at a distance.
+-  **Proximity chat:** Hit up on the D-Pad, F4, or right thumbstick click to turn on your radio and talk between teammates at a distance.
 
 ## Native 5-player Co-op
 <img width="721" height="578" alt="image" src="https://github.com/user-attachments/assets/a6e2c8e4-f87c-46bc-9bd0-0365c8bff674" />
