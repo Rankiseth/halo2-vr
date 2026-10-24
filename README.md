@@ -14,7 +14,7 @@
 
 Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR!
 
-### What’s new in v0.2.0-alpha.5/R103 — 5-Player Co-op Update, Proximity Chat, Co-op Hot-Joins!
+### What’s new in v0.2.0-alpha.5/R103 — 5-Player Co-op, Proximity Chat, Co-op Hot-Joins!
 
 **Bring the whole squad!** R103 brings tested **five-player campaign co-op**, improved mission startup and synchronization, and a cleaner way to host and join games—with VR and native desktop players together.
 
