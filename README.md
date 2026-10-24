@@ -20,6 +20,10 @@ Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapon
 -  **Co-op Campaign Player Colours:** Player 1 is Chief or Arbiter, Players 2 to 5 adapt a blue, red, gold and purple colour respectively to easily differentiate teammates!
 -  **Proximity chat:** Hit up on the D-Pad, F4, or right thumbstick click to turn on your radio and talk between teammates at a distance.
 
+## Two Weapon Holsters, Magazine Zone and Two Grenade Holsters!
+<img width="979" height="555" alt="image" src="https://github.com/user-attachments/assets/b8669f6a-c68a-457e-ac01-92d29949a3eb" />
+
+
 ## Native 5-player Co-op
 <img width="721" height="578" alt="image" src="https://github.com/user-attachments/assets/a6e2c8e4-f87c-46bc-9bd0-0365c8bff674" />
 
