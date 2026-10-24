@@ -2,17 +2,21 @@
 
 **An unofficial PC VR mod for Halo 2 Vista / Project Cartographer.**
 
-> **Download Project Cartographer FIRST :  [Project Cartographer](https://www.halo2pc.com/) <--- Click here to download Halo 2/Project Cartographer
+### The TDLR?
 
-> **THEN, download the latest public alpha VR Mod : [v0.2.0-alpha.4](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.4) <--- Click here to download the mod**, based on development revision **R102**. See releases.
+> **1. Download Project Cartographer FIRST, hit the big green "Download Installer" Button** :  [Project Cartographer](https://www.halo2pc.com/install/) <--- Click here to go to the install website for Halo 2/Project Cartographer!
 
-> Youtube Highlight Footage: [Click here](https://www.youtube.com/watch?v=A6_uVG1LhiM)
+> **2. THEN, download the latest public alpha VR Mod** : [v0.2.0-alpha.5](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.5) <--- Click here to download the mod, based on development revision **R103**. **See releases, please follow its instructions!**
 
-Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR.
+> **3. THEN, download [Radmin VPN](https://www.radmin-vpn.com/) to play with friends.** Have them join your VPN. Then you can play together! When opening Halo 2/Project Cartographer **ALWAYS** follow this sequence: **Play Offline -> Select "Network" in the main menu -> Create a lobby -> Have fun!**
 
-### What’s new in v0.2.0-alpha.4/R102 — Five-Player Co-op Update
+> **4. Optional, review the Youtube Highlight Footage to see features** : [Click here](https://www.youtube.com/watch?v=A6_uVG1LhiM)
 
-**Bring the whole squad!** R102 brings tested **four-player campaign co-op**, improved mission startup and synchronization, and a cleaner way to host and join games—with VR and native desktop players together.
+Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR!
+
+### What’s new in v0.2.0-alpha.5/R103 — Five-Player Co-op Update, Proximity Chat, Co-op Hot-Joins!
+
+**Bring the whole squad!** R103 brings tested **five-player campaign co-op**, improved mission startup and synchronization, and a cleaner way to host and join games—with VR and native desktop players together.
 
 - **Five-player co-op, now playtested:** Successful five-player sessions across multiple missions, including The Great Journey’s opening. Most missions have been reported playable, with some mission-specific quirks.
 - **Improved mission startup:** Fixes for starting-state transfer failures that could disconnect guests while loading into campaign.
@@ -21,6 +25,24 @@ Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapon
 - **Cleaner Advanced Options:** Separate **Co-op**, **Multiplayer**, and **Setup & help** tabs, expandable instructions, and a compact invite-entry screen. The **Home** shortcut still works.
 -  **Co-op Campaign Player Colours:** Player 1 is Chief or Arbiter, Players 2 to 5 adapt a blue, red, gold and purple colour respectively to easily differentiate teammates!
 -  **Proximity chat:** Hit up on the D-Pad, F4, or right thumbstick click to turn on your radio and talk between teammates at a distance.
+- **Experimental campaign hot-joins and rejoins:** join an active co-op session
+  or return after leaving. The joining player loads the host's campaign state,
+  catches up, and waits for a valid respawn when necessary.
+- **More vehicles for larger squads:** extra Banshee support in The Arbiter and
+  The Great Journey; an additional Warthog and Ghost at the Outskirts beach;
+  an extra opening Warthog in Metropolis; and another Warthog after the first
+  Pelican delivery in Delta Halo. Added ground supplies activate for 3+ players.
+- **The Heretic and The Armory in co-op:** play the opening missions together.
+  Co-op skips The Armory's solo look calibration while retaining the shield
+  test and tram sequence. Everyone must board the elevator/tram together.
+- **Keep the party together:** the host's Save and Quit returns the squad to
+  the lobby, ready to select another mission. Leave Co-op Session still leaves
+  the party.
+- **Co-op stability improvements:** updated late-join recovery, repeated-rejoin
+  model-cache handling, and particle timing after restored game states.
+- **Clearer VR UI:** corrected co-op name placement, restored recovery notices,
+  and rebuilt settings text for both Campaign VR Settings and Multiplayer VR
+  Settings, including native/VR switching.
 
 ## Two Weapon Holsters, Magazine Zone and Two Grenade Holsters!
 <img width="979" height="555" alt="image" src="https://github.com/user-attachments/assets/b8669f6a-c68a-457e-ac01-92d29949a3eb" />
@@ -35,9 +57,9 @@ Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapon
 
 **All your VR interactions remain:** Manual reloads on supported weapons, physical grenade throwing and melee, holsters, two-handed support, and independently aimed dual-wielded weapons in matching private sessions. **F6** switches between VR and native controls.
 
-**Everyone should use R102.** Join the same **Radmin VPN** network—or use **Local LAN**—and start a fresh campaign mission. Existing settings and calibration can be retained.
+**Everyone should use R103.** Join the same **Radmin VPN** network—or use **Local LAN**—and start a fresh campaign mission. Existing settings and calibration can be retained.
 
-**Four-player co-op remains experimental.** Some cutscenes, teleports, and vehicle sections still assume two players. Legendary/Iron retain authored starts, and extra Banshees are not included. Older-build checkpoints and mid-mission joining are unsupported; disconnected players must rejoin from the lobby.
+**Five-player co-op remains experimental.** Some cutscenes, teleports, and vehicle sections still assume two players. Legendary/Iron retain authored starts, and extra Banshees are not included. Older-build checkpoints and mid-mission joining are unsupported; disconnected players must rejoin from the lobby.
 
 ## Motivation
 
