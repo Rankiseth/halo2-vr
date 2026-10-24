@@ -2,7 +2,9 @@
 
 **An unofficial PC VR mod for Halo 2 Vista / Project Cartographer.**
 
-> **Latest public alpha : [v0.2.0-alpha.4](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.4) <--- Click here to download the mod**, based on development revision **R102**. See releases.
+> **Download Project Cartographer FIRST :  [Project Cartographer](https://www.halo2pc.com/) <--- Click here to download Halo 2/Project Cartographer
+
+> **THEN, download the latest public alpha VR Mod : [v0.2.0-alpha.4](https://github.com/Rankiseth/halo2-vr/releases#release-v0.2.0-alpha.4) <--- Click here to download the mod**, based on development revision **R102**. See releases.
 
 > Youtube Highlight Footage: [Click here](https://www.youtube.com/watch?v=A6_uVG1LhiM)
 
