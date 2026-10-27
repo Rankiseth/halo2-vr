@@ -10,7 +10,7 @@
 
 > **3. THEN, download [Radmin VPN](https://www.radmin-vpn.com/) to play with friends.** Have them join your VPN. Then you can play together! When opening Halo 2/Project Cartographer **ALWAYS** follow this sequence: **Play Offline -> Select "Network" in the main menu -> Create a lobby -> Have fun!**
 
-> **4. Optional, review the Youtube Highlight Footage to see features** : [Click here](https://www.youtube.com/watch?v=A6_uVG1LhiM)
+> **4. Optional, review the Youtube Highlight Footage to see features** : [Click here](https://www.youtube.com/watch?v=A6_uVG1LhiM) [and here](https://youtu.be/J-uFIpsne5c?si=90TcnpZ-AvKrqmDl)
 
 Step into Halo 2's campaign AND multiplayer with stereoscopic VR, tracked weapons, physical interactions and manual reloading. Developed and playtested by **Rankiseth**, building on Project Cartographer and Valve OpenVR!
 
